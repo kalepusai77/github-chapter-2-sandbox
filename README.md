@@ -1,1 +1,1 @@
-this is to understand how to git pull!
+this is to understand how to git pull! is pretty easy.
